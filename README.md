@@ -1,4 +1,4 @@
-# **Philippine Power Mix Dashboard (2003–2023)**
+# **Philippine Power Generation & Capacity Dashboard (2003–2023)**
 ### 📊 **A full Power BI analytics project on generation, capacity, and renewable energy trends in the Philippines.**
 
 <p align="center">
@@ -33,6 +33,8 @@ The result is an interactive dashboard that gives users clear visibility on how 
 
 This is the first project in my portfolio as I transition into data analytics.
 It reflects the full workflow, from raw data to a polished dashboard and serves as a foundation for more complex projects involving business, operations, and real-world analytics.
+
+##### [**Cleaned Data Set**][
 
 #### Author
 Syrus Mac Gutierrez
