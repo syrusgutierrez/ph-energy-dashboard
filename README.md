@@ -5,11 +5,11 @@
   <img src="dashboard-image.JPG">
 </p>
 
-### 🔗 **Live Dashboard**
+### **Live Dashboard**
 [Click here to explore the fully interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMjJhM2MxOTYtMTVkYS00NGE1LWI4ODQtZTI2NzY5ZjY3YWE1IiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D)
 
 
-### Project Overview
+### **Project Overview**
 
 This project analyzes 20 years of historical data (2003–2023) from DOE generation and capacity reports to understand how the Philippine energy mix has evolved.
 It highlights:
@@ -21,8 +21,12 @@ It highlights:
 
 The result is an interactive dashboard that gives users clear visibility on how the country’s power mix has changed over time — and where it is heading.
 
-### Presentation Slides 
+### **Presentation Slides**
 [Click here to explore the complete project story](https://docs.google.com/presentation/d/e/2PACX-1vTj4tlt77XN4n1ULx6vITbN29BYqTWGV-jCcxUq2r0tILB00-bDjAPlSFzmA6vNn4E-r4vvAbNuNiDd/pub?start=false&loop=false&delayms=60000)
+
+### **Data Sets**
+* [**Clean Power Generation Data Set**](./Power%20Generation%20Cleaned.xlsx)
+* [**Clean Installed Capacity Data Set**](./Installed%20Capacity%20Cleaned.xlsx)
 
 ### **Tools Used**
 * Power BI	 - Dashboard development & modeling
@@ -34,7 +38,9 @@ The result is an interactive dashboard that gives users clear visibility on how 
 This is the first project in my portfolio as I transition into data analytics.
 It reflects the full workflow, from raw data to a polished dashboard and serves as a foundation for more complex projects involving business, operations, and real-world analytics.
 
-##### [**Cleaned Data Set**][
+
+
+
 
 #### Author
 Syrus Mac Gutierrez
