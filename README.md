@@ -6,7 +6,7 @@
 </p>
 
 ### **Live Dashboard**
-[Click here to explore the fully interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMjJhM2MxOTYtMTVkYS00NGE1LWI4ODQtZTI2NzY5ZjY3YWE1IiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D)
+[Click here to explore the fully interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNDI1YjE2MmUtM2FkNC00YzRlLWJhMzgtNmM1NTM3ZjE3YjA3IiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D)
 
 
 ### **Project Overview**
@@ -22,7 +22,7 @@ It highlights:
 The result is an interactive dashboard that gives users clear visibility on how the country’s power mix has changed over time — and where it is heading.
 
 ### **Presentation Slides**
-[Click here to explore the complete project story](https://docs.google.com/presentation/d/e/2PACX-1vTj4tlt77XN4n1ULx6vITbN29BYqTWGV-jCcxUq2r0tILB00-bDjAPlSFzmA6vNn4E-r4vvAbNuNiDd/pub?start=false&loop=false&delayms=60000)
+[Click here to explore the complete project story](https://docs.google.com/presentation/d/e/2PACX-1vSMuDTqxs-qmBe1THsObyC2muMvghiRe2vnaqgbT_44PpVm5BAyV1gwmN8jxNFwgYd0XbFXJM2zB5Ct/pub?start=false&loop=false&delayms=60000)
 
 ### **Data Sets**
 * [**Clean Power Generation Data Set**](./Power%20Generation%20Cleaned.xlsx)
