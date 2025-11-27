@@ -1,52 +1,99 @@
-# **Philippine Power Generation & Capacity Dashboard (2003–2023)**
-### 📊 **A full Power BI analytics project on generation, capacity, and renewable energy trends in the Philippines.**
+# 📊 PH Energy Dashboard (2003–2023)
+
+### Analysis of 21 years of power generation and installed capacity in the Philippines using DOE data, transformed into an interactive Power BI dashboard.
 
 <p align="center">
-  <img src="dashboard-image.JPG">
+  <img src="dashboard-ss.JPG">
 </p>
 
-### **Live Dashboard**
-[Click here to explore the fully interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNDI1YjE2MmUtM2FkNC00YzRlLWJhMzgtNmM1NTM3ZjE3YjA3IiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D)
+
+---
+
+## Overview
+This project examines long-term energy patterns across Luzon, Visayas, and Mindanao from 2003–2023.  
+The goal is to turn raw DOE data into meaningful insights through structured cleaning, modeling, and visualization.
+
+---
+
+## 📌 Dashboard & Materials
+- **Live Dashboard**  
+  [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzYwNzQzNWItZjZmMC00MWYyLWFlMjQtN2Y1ZGNjNTQwMGYxIiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D)
+
+- **Presentation Slides**  
+  [View Slides](https://docs.google.com/presentation/d/e/2PACX-1vSMuDTqxs-qmBe1THsObyC2muMvghiRe2vnaqgbT_44PpVm5BAyV1gwmN8jxNFwgYd0XbFXJM2zB5Ct/pub?start=false&loop=false&delayms=60000&slide=id.p1)
+
+---
+
+## Objectives
+- Analyze long-term generation trends in TWh  
+- Compare fossil fuels vs renewable sources  
+- Assess growth of installed capacity versus demand  
+- Build an interactive dashboard for exploration  
+- Strengthen skills in modeling, DAX, and data storytelling  
+
+---
+
+## 📈 Key Insights
+- Total grid generation **more than doubled** (early 2000s → 118 TWh in 2023)  
+- **Coal is still the dominant source**, especially in Luzon  
+- **Renewables grew steadily**, led by hydro & geothermal  
+- **Solar accelerated after 2015** (though still small overall)  
+- **Generation grew faster than capacity**, signaling future supply pressure  
+- **Regional differences**  
+  - Luzon → fossil-fuel heavy  
+  - Visayas → geothermal strong  
+  - Mindanao → hydro dependent  
+
+---
+
+## Methodology
+- Cleaned DOE data via Power Query  
+- Normalized structure through unpivoting  
+- Built DAX measures for % share, YoY, and KPIs  
+- Standardized units to TWh  
+- Designed dashboard layout with muted palette  
+- Verified calculations against raw totals  
+
+---
+
+## 📁 Repository Structure
+ph-energy-dashboard/
+
+── cleaned_data/
+
+     └── Power Generation Cleaned.xlsx
+
+     └── Installed Capacity Cleaned.xlsx
+
+── presentation/
+
+    └── PH_Energy_Analysis_Presentation.pdf
+
+── dashboard/
+
+     └── Dashboard_Screenshots/
+
+── README.md
 
 
-### **Project Overview**
+---
 
-This project analyzes 20 years of historical data (2003–2023) from DOE generation and capacity reports to understand how the Philippine energy mix has evolved.
-It highlights:
-* Total grid generation growth
-* Installed capacity expansion
-* Renewable vs. non-renewable distribution
-* Top energy contributors
-* Island group and year-level dynamics
+## Limitations
+- No emissions or cost data included  
+- Dependent on DOE reporting format  
+- No forecasting or policy modeling  
+- No plant-level granularity  
 
-The result is an interactive dashboard that gives users clear visibility on how the country’s power mix has changed over time — and where it is heading.
+---
 
-### **Presentation Slides**
-[Click here to explore the complete project story](https://docs.google.com/presentation/d/e/2PACX-1vSMuDTqxs-qmBe1THsObyC2muMvghiRe2vnaqgbT_44PpVm5BAyV1gwmN8jxNFwgYd0XbFXJM2zB5Ct/pub?start=false&loop=false&delayms=60000)
+## 👨‍💻 Skills Demonstrated
+Power BI • DAX • Power Query • Data Cleaning • Data Modeling • Exploratory Analysis • Visualization • Git/GitHub
 
-### **Data Sets**
-* [**Clean Power Generation Data Set**](./Power%20Generation%20Cleaned.xlsx)
-* [**Clean Installed Capacity Data Set**](./Installed%20Capacity%20Cleaned.xlsx)
+---
 
-### **Tools Used**
-* Power BI	 - Dashboard development & modeling
-* Excel	- Initial data cleaning
-* DAX	- For Measures, YoY, and dynamic KPIs
-
-### 🧠 **About This Project**
-
-This is the first project in my portfolio as I transition into data analytics.
-It reflects the full workflow, from raw data to a polished dashboard and serves as a foundation for more complex projects involving business, operations, and real-world analytics.
+## 📝 About This Project
+This is my first major analytics project as I transition into data analytics.  
+It reflects the foundation I'm building in modeling, dashboarding, and transforming public datasets into actionable insights.
 
 
 
-
-
-#### Author
-Syrus Mac Gutierrez
-
-Data Analyst in training 
-
-📧 Email: syrus.mac19@gmail.com
-
-🔗 GitHub: https://github.com/syrusgutierrez
