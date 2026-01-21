@@ -3,7 +3,7 @@
 #### Analysis of 21 years of power generation and installed capacity in the Philippines using DOE data, transformed into an interactive Power BI dashboard.
 
 <p align="center">
-  <img src="Dashboard_Screenshots.JPG">
+  <img src="dashboard/Dashboard_Screenshots.JPG">
 </p>
 
 
