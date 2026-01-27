@@ -1,4 +1,4 @@
-# 📊 Interactive Dashboard: Philippine Power Growth & Energy Mix (2003–2023)
+# Interactive Dashboard: Philippine Power Growth & Energy Mix (2003–2023)
 
 #### Analysis of 21 years of power generation and installed capacity in the Philippines using DOE data, transformed into an interactive Power BI dashboard.
 
