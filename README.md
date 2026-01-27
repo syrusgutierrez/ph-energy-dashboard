@@ -33,7 +33,7 @@ The goal is to turn raw DOE data into meaningful insights through structured cle
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Total grid generation **more than doubled** (early 2000s → 118 TWh in 2023)  
 - **Coal is still the dominant source**, especially in Luzon  
 - **Renewables grew steadily**, led by hydro & geothermal  
