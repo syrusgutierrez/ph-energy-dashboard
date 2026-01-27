@@ -15,7 +15,7 @@ The goal is to turn raw DOE data into meaningful insights through structured cle
 
 ---
 
-## 📌 Dashboard & Materials
+## Dashboard & Materials
 - **Live Dashboard**  
   [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODdjNDQwYTYtZTI0NS00ZmZhLWJkM2QtYTQ3ZmQ1YjFiZDM0IiwidCI6IjUyZGE4ZmY4LWZlZDktNDZjNC04YjlmLWI1ODU4OTJhMTQ0NiIsImMiOjEwfQ%3D%3D)
 
@@ -56,7 +56,7 @@ The goal is to turn raw DOE data into meaningful insights through structured cle
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ph-energy-dashboard/
 
 ── cleaned_data/
@@ -86,12 +86,12 @@ ph-energy-dashboard/
 
 ---
 
-## 👨‍💻 Skills Demonstrated
+## Skills Demonstrated
 Power BI • DAX • Power Query • Data Cleaning • Data Modeling • Exploratory Analysis • Visualization • Git/GitHub
 
 ---
 
-## 📝 About This Project
+## About This Project
 This is my first major analytics project as I transition into data analytics.  
 It reflects the foundation I'm building in modeling, dashboarding, and transforming public datasets into actionable insights.
 
