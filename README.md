@@ -6,14 +6,9 @@
   <img src="dashboard/Dashboard_Screenshots.JPG">
 </p>
 
-
----
-
 ## Overview
 This project examines long-term energy patterns across Luzon, Visayas, and Mindanao from 2003–2023.  
 The goal is to turn raw DOE data into meaningful insights through structured cleaning, modeling, and visualization.
-
----
 
 ## Dashboard & Materials
 - **Live Dashboard**  
@@ -22,16 +17,12 @@ The goal is to turn raw DOE data into meaningful insights through structured cle
 - **Presentation Slides**  
   [View Slides](https://docs.google.com/presentation/d/e/2PACX-1vSMuDTqxs-qmBe1THsObyC2muMvghiRe2vnaqgbT_44PpVm5BAyV1gwmN8jxNFwgYd0XbFXJM2zB5Ct/pub?start=false&loop=false&delayms=60000&slide=id.p1)
 
----
-
 ## Objectives
 - Analyze long-term generation trends in TWh  
 - Compare fossil fuels vs renewable sources  
 - Assess growth of installed capacity versus demand  
 - Build an interactive dashboard for exploration  
 - Strengthen skills in modeling, DAX, and data storytelling  
-
----
 
 ## Key Insights
 - Total grid generation **more than doubled** (early 2000s → 118 TWh in 2023)  
@@ -44,8 +35,6 @@ The goal is to turn raw DOE data into meaningful insights through structured cle
   - Visayas → geothermal strong  
   - Mindanao → hydro dependent  
 
----
-
 ## Methodology
 - Cleaned DOE data via Power Query  
 - Normalized structure through unpivoting  
@@ -53,8 +42,6 @@ The goal is to turn raw DOE data into meaningful insights through structured cle
 - Standardized units to TWh  
 - Designed dashboard layout with muted palette  
 - Verified calculations against raw totals  
-
----
 
 ## Repository Structure
 ```text
@@ -68,7 +55,6 @@ ph-energy-dashboard/
     └── PH_Energy_Analysis_Presentation.pdf
 ── README.md
 ```
----
 
 ## Limitations
 - No emissions or cost data included  
@@ -76,12 +62,8 @@ ph-energy-dashboard/
 - No forecasting or policy modeling  
 - No plant-level granularity  
 
----
-
 ## Skills Demonstrated
 Power BI • DAX • Power Query • Data Cleaning • Data Modeling • Exploratory Analysis • Visualization • Git/GitHub
-
----
 
 ## About This Project
 This is my first major analytics project as I transition into data analytics.  
