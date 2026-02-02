@@ -57,25 +57,17 @@ The goal is to turn raw DOE data into meaningful insights through structured cle
 ---
 
 ## Repository Structure
+```text
 ph-energy-dashboard/
-
 ── cleaned_data/
-
      └── Power Generation Cleaned.xlsx
-
      └── Installed Capacity Cleaned.xlsx
-
 ── dashboard/
-
      └── Dashboard_Screenshots
-     
 ── presentation/
-
     └── PH_Energy_Analysis_Presentation.pdf
-
 ── README.md
-
-
+```
 ---
 
 ## Limitations
